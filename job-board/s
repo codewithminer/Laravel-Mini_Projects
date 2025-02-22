@@ -1,0 +1,53 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#6178
+    [34mall[39m: [
+      [34;4mApp\Models\JobApplication[39;24m {#6172
+        [34mid[39m: [35m77[39m,
+        [34muser_id[39m: [35m1[39m,
+        [34mjob_offer_id[39m: [35m67[39m,
+        [34mexpected_salary[39m: [35m107257[39m,
+        [34mcreated_at[39m: "[32m2025-02-21 11:59:22[39m",
+        [34mupdated_at[39m: "[32m2025-02-21 11:59:22[39m",
+      },
+      [34;4mApp\Models\JobApplication[39;24m {#6189
+        [34mid[39m: [35m78[39m,
+        [34muser_id[39m: [35m1[39m,
+        [34mjob_offer_id[39m: [35m92[39m,
+        [34mexpected_salary[39m: [35m24410[39m,
+        [34mcreated_at[39m: "[32m2025-02-21 11:59:22[39m",
+        [34mupdated_at[39m: "[32m2025-02-21 11:59:22[39m",
+      },
+      [34;4mApp\Models\JobApplication[39;24m {#6252
+        [34mid[39m: [35m79[39m,
+        [34muser_id[39m: [35m1[39m,
+        [34mjob_offer_id[39m: [35m78[39m,
+        [34mexpected_salary[39m: [35m77842[39m,
+        [34mcreated_at[39m: "[32m2025-02-21 11:59:22[39m",
+        [34mupdated_at[39m: "[32m2025-02-21 11:59:22[39m",
+      },
+      [34;4mApp\Models\JobApplication[39;24m {#6251
+        [34mid[39m: [35m80[39m,
+        [34muser_id[39m: [35m1[39m,
+        [34mjob_offer_id[39m: [35m62[39m,
+        [34mexpected_salary[39m: [35m10307[39m,
+        [34mcreated_at[39m: "[32m2025-02-21 11:59:22[39m",
+        [34mupdated_at[39m: "[32m2025-02-21 11:59:22[39m",
+      },
+      [34;4mApp\Models\JobApplication[39;24m {#6250
+        [34mid[39m: [35m553[39m,
+        [34muser_id[39m: [35m1[39m,
+        [34mjob_offer_id[39m: [35m1[39m,
+        [34mexpected_salary[39m: [35m7000[39m,
+        [34mcreated_at[39m: "[32m2025-02-21 13:19:22[39m",
+        [34mupdated_at[39m: "[32m2025-02-21 13:19:22[39m",
+      },
+      [34;4mApp\Models\JobApplication[39;24m {#6249
+        [34mid[39m: [35m554[39m,
+        [34muser_id[39m: [35m1[39m,
+        [34mjob_offer_id[39m: [35m2[39m,
+        [34mexpected_salary[39m: [35m10000[39m,
+        [34mcreated_at[39m: "[32m2025-02-21 14:24:43[39m",
+        [34mupdated_at[39m: "[32m2025-02-21 14:24:43[39m",
+      },
+    ],
+  }
+
