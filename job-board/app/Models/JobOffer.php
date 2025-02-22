@@ -9,11 +9,14 @@ use Illuminate\Database\Query\Builder as QueryBuilder;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\HasMany;
+use Illuminate\Database\Eloquent\SoftDeletes;
 
 class JobOffer extends Model
 {
-    use HasFactory;
+    use HasFactory, SoftDeletes;
     
+    protected $fillable = ['title', 'location', 'salary', 'description', 'experience', 'category'];
+
     public static array $experience = ['entry','intermediate','senior'];
     public static array $category = ['IT', 'Finance', 'Sales', 'Marketing'];
 

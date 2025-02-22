@@ -10,8 +10,10 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 class Employer extends Model
 {
     use HasFactory;
+    
+    protected $fillable = ['company_name'];
 
-    public function jobs(): HasMany{
+    public function job_offers(): HasMany{
         return $this->hasMany(JobOffer::class);
     }
 
