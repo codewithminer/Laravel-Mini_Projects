@@ -1,6 +1,6 @@
 # Laravel Job Board
 
-A full-featured job board application built with Laravel 11, allowing employers to post jobs and job seekers to apply with their CVs.
+A job board application built with Laravel 11, allowing employers to post jobs and job seekers to apply with their CVs.
 
 ## Features
 
